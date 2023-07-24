@@ -1,0 +1,21 @@
+.full{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #f5f5f5 ;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1200px;
+    top:0;
+  
+}
+
+.title{
+width:60%;
+margin-left: 400px;
+}

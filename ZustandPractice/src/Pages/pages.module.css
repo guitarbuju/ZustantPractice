@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 6vh;
+  width: 1200px;
+  height: 100vh;
+}
+
+.token {
+  color: black;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  width: 600px;
+  margin: 0 auto;
+  word-wrap: break-word;
+  font-size: 14px;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
+
+.image {
+  margin-top: -400px;
+}
+
+form {
+  margin-top: -400px;
+
+  width: 100%;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-top: -400px;
+}
+
+.thor{
+  margin-right: 50px;
+}
